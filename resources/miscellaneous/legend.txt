@@ -1,0 +1,22 @@
+//  - floor
+//w - wall
+//s - secret door
+//d - door
+//c - locked door
+//p - pillar
+//b - boulder
+//g - glowing wall
+//t - torch
+//l - letter
+//h - hut
+
+//X(1-9) - statue
+//S - southward stairs
+//N - northward stairs
+//W - westward stairs
+//E - eastward 
+//B - boss
+//i - items
+
+aefjkmnoqruvxyz
+ACDFGHIJKLMOPQRTUVYZ
